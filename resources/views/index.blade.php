@@ -6,8 +6,9 @@
     <link rel="stylesheet" href="{{asset('css/app.css')}}">
   </head>
   <body>
+      <br>
     <div class="container">
-        <center><h1>Events List</h1></center>
+        <center><h1>Featured events</h1></center>
         <br>
         <div class="button">
             <a href="/events/create" class="btn btn-primary ">Add your event here</a>

@@ -42,7 +42,7 @@
           <div class="row">
             <div class="col-md-4"></div>
             <div class="form-group col-md-4">
-              <label for="Artiste">Artiste:</label>
+              <label for="Artiste">Organizer:</label>
               <input type="Text" name="artiste">
            </div>
           </div>
